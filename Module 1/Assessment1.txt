@@ -1,0 +1,6 @@
+1. Write an explanation of your understanding about Python langauge.
+
+    Python is a powerful open source language that is very popular among the programming languages. Its vast applications from web development, data science and analytics, AI, machine learning, scipting, GUIs, etc all contribute to the langauge's popularity and power. Python is interpretted, in contrast of most compiled languages -- meaning it reads and runs one line at a time instead of running the entire program as a whole. It is interactive where in one can use and interact directly with the prompt. It is also object oriented which makes programming easy and readable, and lastly, it is very east and beginner friendly. The syntax of the language nearly resembles natural and human grammar. 
+
+2. Express in writing about the Anaconda installation
+    Installing the Anaconda Navigator is very simple and self-explanatory. You basically click download and click the installer and let it do its thing. The installing took a while, but once it was finished, i had plenty of tools in my disposal including Pycharm, Jupyter, VSCode, DataSpell, Spyder, etc. Overall, it was very doable and uncomplicated.

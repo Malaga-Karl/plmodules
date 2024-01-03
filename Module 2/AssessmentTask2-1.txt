@@ -1,0 +1,20 @@
+Assessment Task 2.1
+
+Write a brief description of all the following Object Types and Data Structures we've learned about:
+1. Numbers:
+    Numbers are the type of objects that stores and interacts with numerical data. It can be subcategorized to Integers, which are whole numbers - positive or negative, and Floating point integers, which can have decimal points and exponents (E). There can also be complext numbers. Numbers can be interacted with mathematical operators such as +, -, *, /, //, **, %
+    
+2. Strings:
+    A string is a sequence of characters that represents a word. Strings are indexed from 0-length_of_the_word, and one can access all the characters of the string. They can be indexed and sliced and manipulated to display different varieties of the word, however, they are immutable, meaning users cannot change the value of a specific index. 
+    
+3. Lists:
+    Lists are ordered sequence of flexible python data types. A list can handle strings, integers, booleans, and other types. Lists are mutable, meaning, you can change the value of a specific index. Lists are created with brackets [] and separated with commas. You can concatenate a list with another list using the plus sign [] + []
+
+4. Tuples:
+    Tuples are generally like lists, but are immutable. They are created using parenthesis () and can function just as lists can. Tuples are useful when immutability is necessary and are useful for constant values that should not change. There are basic methods in tuples like 'index()' which finds the index of a value and 'count()' which counts how many times the value repeats. 
+    
+5. Dictionaries:
+    Dictionaries are examples of 'mapping' in Python. It uses a key-value pair. In creating a dictionary, you should use curly braces {} and insert your key and value of the key. String keys and values should be within quotation marks. Values can be accessed using an list-like indexing only with the key instead of the index. my_dict['name']. It has a few methods like keys() values() items()
+
+6. Boolean
+    Booleans are basically True or False values that also works as 1 or 0. 1 being True and 0 being False. It is used mostly for conditional statements in code. Addidionally, there is a None boolean which is neither and is just a placeholder for future Boolean values.
